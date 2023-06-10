@@ -6,7 +6,7 @@ namespace UrielAdonay
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bienvenido a mi Programa");
+            Console.WriteLine("Este es mi pagina web");
         }
     }
 }
