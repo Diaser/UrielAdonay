@@ -1,0 +1,16 @@
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\bin\Debug\net5.0\UrielAdonay.exe
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\bin\Debug\net5.0\UrielAdonay.deps.json
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\bin\Debug\net5.0\UrielAdonay.runtimeconfig.json
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\bin\Debug\net5.0\UrielAdonay.runtimeconfig.dev.json
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\bin\Debug\net5.0\UrielAdonay.dll
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\bin\Debug\net5.0\ref\UrielAdonay.dll
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\bin\Debug\net5.0\UrielAdonay.pdb
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.csprojAssemblyReference.cache
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.AssemblyInfoInputs.cache
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.AssemblyInfo.cs
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.csproj.CoreCompileInputs.cache
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.dll
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\ref\UrielAdonay.dll
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.pdb
+C:\Users\MONZON\source\repos\UrielAdonay\UrielAdonay\obj\Debug\net5.0\UrielAdonay.genruntimeconfig.cache
